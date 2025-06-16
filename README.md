@@ -1,66 +1,55 @@
-# Celebal Internship SQL Assignments
+# 📦 Celebal Internship – SQL Assignments Repository
 
-This repository contains SQL assignments and solutions completed as part of the Celebal Internship program. The assignments cover a wide range of SQL concepts, including queries, stored procedures, functions, views, triggers, and real-world database problem-solving.
-
----
-
-## 📁 Folder Structure
-
-- [**Assignments-Level A Task**](#assignments-level-a-task)
-- [**Assignments-Level B Task**](#assignments-level-b-task)
-- [**Assignments-Level C Task**](#assignments-level-c-task)
-- [**Student Allotment SQL Problem**](#student-allotment-sql-problem)
+This repository contains a series of structured SQL assignments completed as part of the **Celebal Internship Program**. These assignments cover a wide range of SQL concepts — from basic queries to advanced stored procedures, views, triggers, and real-world database challenges using the **AdventureWorks** sample database.
 
 ---
 
-### 📂 Assignments-Level A Task
-- `assignment.sql`: 42 SQL queries for business scenarios using the AdventureWorks sample database.
-- `Level A Task.pdf`: Assignment brief.
-- `README.md`: Documentation for Level A tasks.
+## 📁 Folder Structure & Direct Links
 
-### 📂 Assignments-Level B Task
-- `LEVEL B.sql`: Advanced SQL components (procedures, functions, views, triggers) for order management in AdventureWorks.
-- `Level B Task.pdf`: Assignment brief.
-- `README.md`: Documentation for Level B tasks.
+- 🔗 [**Assignments-Level A Task**](https://github.com/dineshsingh099/Celebal-internship/tree/main/Assignments-Level%20A%20Task)  
+  Contains 42 SQL queries for business scenarios using core SQL concepts.
 
-### 📂 Assignments-Level C Task
-- `project_queries.sql`: Solutions to advanced SQL tasks using window functions, CTEs, and optimization techniques.
-- `Level C Task.pdf`: Assignment brief.
-- `README.md`: Documentation for Level C tasks.
+- 🔗 [**Assignments-Level B Task**](https://github.com/dineshsingh099/Celebal-internship/tree/main/Assignments-%20Level%20B%20Task)  
+  Advanced tasks using procedures, functions, views, and triggers.
 
-### 📂 Student Allotment SQL Problem
-- `SQL Table.sql`: Table creation and sample data for a student subject allotment system.
-- `SQL Solution.sql`: Stored procedure to allot subjects based on preferences and seat availability.
-- `Student Allotment SQL Problem.pdf`: Problem statement.
-- `README.md`: Documentation for the problem solution.
+- 🔗 [**Assignments-Level C Task**](https://github.com/dineshsingh099/Celebal-internship/tree/main/Assignments-Level%20C%20Task)  
+  Complex queries using window functions, CTEs, and analytical SQL.
+
+- 🔗 [**Student Allotment SQL Problem**](https://github.com/dineshsingh099/Celebal-internship/tree/main/Student%20Allotment%20SQL%20Problem)  
+  End-to-end SQL logic for subject allotment based on preferences and availability.
+
+---
+
+## 🧠 Topics Covered
+
+- SQL querying and filtering
+- Aggregate functions and grouping
+- Joins (INNER, LEFT, RIGHT)
+- Subqueries and nested logic
+- Stored procedures and user-defined functions
+- Views and triggers
+- CTEs and window functions
+- Real-world SQL problem-solving
 
 ---
 
 ## 📝 How to Use
 
-1. Open the relevant folder for the assignment you want to explore.
-2. Review the provided SQL scripts and `README.md`.
-3. Use **SQL Server Management Studio (SSMS)** or **Azure Data Studio** to execute the scripts.
-4. Refer to the assignment PDF for task instructions and use the SQL scripts accordingly.
+1. Click any folder link above to view a specific assignment.
+2. Open the `.sql` file inside and run queries using:
+   - **SQL Server Management Studio (SSMS)**  
+   - or **Azure Data Studio**
+3. Refer to each folder’s `README.md` for task explanations.
+4. Use the provided `.pdf` files for the official assignment brief.
 
 ---
 
-## 💡 Topics Covered
+## 📚 Reference
 
-- SQL querying and data retrieval
-- Joins, grouping, and aggregation
-- Stored procedures and functions
-- Views and triggers
-- Data manipulation and business logic
-- Real-world database problem-solving using procedural SQL
-
----
-
-## 📚 References
-
-- [AdventureWorks Sample Database (Microsoft)](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works)
+- [AdventureWorks Sample Database – Microsoft](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works)
 
 ---
 
 **👨‍💻 Author:**  
-Celebal Internship Program Participant – [Dinesh Singh](https://github.com/dineshsingh099)
+Dinesh Singh – Celebal Internship Participant  
+🔗 GitHub: [dineshsingh099](https://github.com/dineshsingh099)
